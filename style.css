@@ -10,3 +10,7 @@ html, body {
 .hideme{
     opacity: 0;
 }
+
+#discord-icon{
+    cursor: pointer;
+}
